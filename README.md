@@ -1,4 +1,8 @@
-# 🚦 Smart Traffic Light Controller  
+ <p align="center">
+  <img src="cover.png" alt="Smart Traffic Light Controller Cover" width="800">
+</p>
+
+# 🚦 Smart Traffic Light Controller 
 
 ### Sri Lanka Institute of Information Technology (SLIIT)  
 📘 **Course:** IE2082 – Discrete Mathematics  
