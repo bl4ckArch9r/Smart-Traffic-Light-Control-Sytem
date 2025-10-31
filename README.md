@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="cover.png" alt="Smart Traffic Light Controller Cover" width="800">
+  <img src="cover.jpg" alt="Smart Traffic Light Controller Cover" width="800">
 </p>
 
 # 🚦 Smart Traffic Light Controller 
